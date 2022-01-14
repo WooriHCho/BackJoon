@@ -1,4 +1,6 @@
+print("x좌표 입력: ")
 x = int(input())
+print("y좌표 입력: ")
 y = int(input())
 
 if x>0:
