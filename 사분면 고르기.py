@@ -3,12 +3,13 @@ y = int(input())
 
 if x>0:
     if y>0:
-        print(1)
+        a=1
     else:
-        print(4)
+        a=4
 else:
     if y>0:
-        print(2)
+        a=2
     else:
-        print(3)
+        a=3
 
+print(a)
